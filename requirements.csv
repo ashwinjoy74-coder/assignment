@@ -1,0 +1,445 @@
+﻿class,division,subject,teacher,periods_per_week
+1,A,English,Rahul Nair (Class 1),5
+1,A,Malayalam,Meera Thomas (Class 1),5
+1,A,Mathematics,Arun Kumar (Class 1),6
+1,A,EVS,Neha Joseph (Class 1),4
+1,A,Hindi,Sreeja Pillai (Class 1),3
+1,A,Computer,Nikhil Das (Class 1),2
+1,A,Art,Deepa Varghese (Class 1),2
+1,A,Physical Education,Fathima Ali (Class 1),2
+1,A,General Knowledge,Vivek Raj (Class 1),2
+1,B,English,Rahul Nair (Class 1),5
+1,B,Malayalam,Meera Thomas (Class 1),5
+1,B,Mathematics,Arun Kumar (Class 1),6
+1,B,EVS,Neha Joseph (Class 1),4
+1,B,Hindi,Sreeja Pillai (Class 1),3
+1,B,Computer,Nikhil Das (Class 1),2
+1,B,Art,Deepa Varghese (Class 1),2
+1,B,Physical Education,Fathima Ali (Class 1),2
+1,B,General Knowledge,Vivek Raj (Class 1),2
+1,C,English,Rahul Nair (Class 1),5
+1,C,Malayalam,Meera Thomas (Class 1),5
+1,C,Mathematics,Arun Kumar (Class 1),6
+1,C,EVS,Neha Joseph (Class 1),4
+1,C,Hindi,Sreeja Pillai (Class 1),3
+1,C,Computer,Nikhil Das (Class 1),2
+1,C,Art,Deepa Varghese (Class 1),2
+1,C,Physical Education,Fathima Ali (Class 1),2
+1,C,General Knowledge,Vivek Raj (Class 1),2
+1,D,English,Rahul Nair (Class 1),5
+1,D,Malayalam,Meera Thomas (Class 1),5
+1,D,Mathematics,Arun Kumar (Class 1),6
+1,D,EVS,Neha Joseph (Class 1),4
+1,D,Hindi,Sreeja Pillai (Class 1),3
+1,D,Computer,Nikhil Das (Class 1),2
+1,D,Art,Deepa Varghese (Class 1),2
+1,D,Physical Education,Fathima Ali (Class 1),2
+1,D,General Knowledge,Vivek Raj (Class 1),2
+2,A,English,Meera Thomas (Class 2),5
+2,A,Malayalam,Arun Kumar (Class 2),5
+2,A,Mathematics,Neha Joseph (Class 2),6
+2,A,EVS,Sreeja Pillai (Class 2),4
+2,A,Hindi,Nikhil Das (Class 2),3
+2,A,Computer,Deepa Varghese (Class 2),2
+2,A,Art,Fathima Ali (Class 2),2
+2,A,Physical Education,Vivek Raj (Class 2),2
+2,A,General Knowledge,Lakshmi Suresh (Class 2),2
+2,B,English,Meera Thomas (Class 2),5
+2,B,Malayalam,Arun Kumar (Class 2),5
+2,B,Mathematics,Neha Joseph (Class 2),6
+2,B,EVS,Sreeja Pillai (Class 2),4
+2,B,Hindi,Nikhil Das (Class 2),3
+2,B,Computer,Deepa Varghese (Class 2),2
+2,B,Art,Fathima Ali (Class 2),2
+2,B,Physical Education,Vivek Raj (Class 2),2
+2,B,General Knowledge,Lakshmi Suresh (Class 2),2
+2,C,English,Meera Thomas (Class 2),5
+2,C,Malayalam,Arun Kumar (Class 2),5
+2,C,Mathematics,Neha Joseph (Class 2),6
+2,C,EVS,Sreeja Pillai (Class 2),4
+2,C,Hindi,Nikhil Das (Class 2),3
+2,C,Computer,Deepa Varghese (Class 2),2
+2,C,Art,Fathima Ali (Class 2),2
+2,C,Physical Education,Vivek Raj (Class 2),2
+2,C,General Knowledge,Lakshmi Suresh (Class 2),2
+2,D,English,Meera Thomas (Class 2),5
+2,D,Malayalam,Arun Kumar (Class 2),5
+2,D,Mathematics,Neha Joseph (Class 2),6
+2,D,EVS,Sreeja Pillai (Class 2),4
+2,D,Hindi,Nikhil Das (Class 2),3
+2,D,Computer,Deepa Varghese (Class 2),2
+2,D,Art,Fathima Ali (Class 2),2
+2,D,Physical Education,Vivek Raj (Class 2),2
+2,D,General Knowledge,Lakshmi Suresh (Class 2),2
+3,A,English,Arun Kumar (Class 3),5
+3,A,Malayalam,Neha Joseph (Class 3),5
+3,A,Mathematics,Sreeja Pillai (Class 3),6
+3,A,EVS,Nikhil Das (Class 3),4
+3,A,Hindi,Deepa Varghese (Class 3),3
+3,A,Computer,Fathima Ali (Class 3),2
+3,A,Art,Vivek Raj (Class 3),2
+3,A,Physical Education,Lakshmi Suresh (Class 3),2
+3,A,General Knowledge,Akhil Mathew (Class 3),2
+3,B,English,Arun Kumar (Class 3),5
+3,B,Malayalam,Neha Joseph (Class 3),5
+3,B,Mathematics,Sreeja Pillai (Class 3),6
+3,B,EVS,Nikhil Das (Class 3),4
+3,B,Hindi,Deepa Varghese (Class 3),3
+3,B,Computer,Fathima Ali (Class 3),2
+3,B,Art,Vivek Raj (Class 3),2
+3,B,Physical Education,Lakshmi Suresh (Class 3),2
+3,B,General Knowledge,Akhil Mathew (Class 3),2
+3,C,English,Arun Kumar (Class 3),5
+3,C,Malayalam,Neha Joseph (Class 3),5
+3,C,Mathematics,Sreeja Pillai (Class 3),6
+3,C,EVS,Nikhil Das (Class 3),4
+3,C,Hindi,Deepa Varghese (Class 3),3
+3,C,Computer,Fathima Ali (Class 3),2
+3,C,Art,Vivek Raj (Class 3),2
+3,C,Physical Education,Lakshmi Suresh (Class 3),2
+3,C,General Knowledge,Akhil Mathew (Class 3),2
+3,D,English,Arun Kumar (Class 3),5
+3,D,Malayalam,Neha Joseph (Class 3),5
+3,D,Mathematics,Sreeja Pillai (Class 3),6
+3,D,EVS,Nikhil Das (Class 3),4
+3,D,Hindi,Deepa Varghese (Class 3),3
+3,D,Computer,Fathima Ali (Class 3),2
+3,D,Art,Vivek Raj (Class 3),2
+3,D,Physical Education,Lakshmi Suresh (Class 3),2
+3,D,General Knowledge,Akhil Mathew (Class 3),2
+4,A,English,Neha Joseph (Class 4),5
+4,A,Malayalam,Sreeja Pillai (Class 4),5
+4,A,Mathematics,Nikhil Das (Class 4),6
+4,A,EVS,Deepa Varghese (Class 4),4
+4,A,Hindi,Fathima Ali (Class 4),3
+4,A,Computer,Vivek Raj (Class 4),2
+4,A,Art,Lakshmi Suresh (Class 4),2
+4,A,Physical Education,Akhil Mathew (Class 4),2
+4,A,General Knowledge,Divya Mohan (Class 4),2
+4,B,English,Neha Joseph (Class 4),5
+4,B,Malayalam,Sreeja Pillai (Class 4),5
+4,B,Mathematics,Nikhil Das (Class 4),6
+4,B,EVS,Deepa Varghese (Class 4),4
+4,B,Hindi,Fathima Ali (Class 4),3
+4,B,Computer,Vivek Raj (Class 4),2
+4,B,Art,Lakshmi Suresh (Class 4),2
+4,B,Physical Education,Akhil Mathew (Class 4),2
+4,B,General Knowledge,Divya Mohan (Class 4),2
+4,C,English,Neha Joseph (Class 4),5
+4,C,Malayalam,Sreeja Pillai (Class 4),5
+4,C,Mathematics,Nikhil Das (Class 4),6
+4,C,EVS,Deepa Varghese (Class 4),4
+4,C,Hindi,Fathima Ali (Class 4),3
+4,C,Computer,Vivek Raj (Class 4),2
+4,C,Art,Lakshmi Suresh (Class 4),2
+4,C,Physical Education,Akhil Mathew (Class 4),2
+4,C,General Knowledge,Divya Mohan (Class 4),2
+4,D,English,Neha Joseph (Class 4),5
+4,D,Malayalam,Sreeja Pillai (Class 4),5
+4,D,Mathematics,Nikhil Das (Class 4),6
+4,D,EVS,Deepa Varghese (Class 4),4
+4,D,Hindi,Fathima Ali (Class 4),3
+4,D,Computer,Vivek Raj (Class 4),2
+4,D,Art,Lakshmi Suresh (Class 4),2
+4,D,Physical Education,Akhil Mathew (Class 4),2
+4,D,General Knowledge,Divya Mohan (Class 4),2
+5,A,English,Sreeja Pillai (Class 5),5
+5,A,Malayalam,Nikhil Das (Class 5),4
+5,A,Hindi,Deepa Varghese (Class 5),3
+5,A,Mathematics,Fathima Ali (Class 5),6
+5,A,Basic Science,Vivek Raj (Class 5),4
+5,A,Social Science,Lakshmi Suresh (Class 5),4
+5,A,Computer,Akhil Mathew (Class 5),2
+5,A,Physical Education,Divya Mohan (Class 5),2
+5,A,Art,Kiran Babu (Class 5),1
+5,A,Work Education,Reshma Paul (Class 5),1
+5,B,English,Sreeja Pillai (Class 5),5
+5,B,Malayalam,Nikhil Das (Class 5),4
+5,B,Hindi,Deepa Varghese (Class 5),3
+5,B,Mathematics,Fathima Ali (Class 5),6
+5,B,Basic Science,Vivek Raj (Class 5),4
+5,B,Social Science,Lakshmi Suresh (Class 5),4
+5,B,Computer,Akhil Mathew (Class 5),2
+5,B,Physical Education,Divya Mohan (Class 5),2
+5,B,Art,Kiran Babu (Class 5),1
+5,B,Work Education,Reshma Paul (Class 5),1
+5,C,English,Sreeja Pillai (Class 5),5
+5,C,Malayalam,Nikhil Das (Class 5),4
+5,C,Hindi,Deepa Varghese (Class 5),3
+5,C,Mathematics,Fathima Ali (Class 5),6
+5,C,Basic Science,Vivek Raj (Class 5),4
+5,C,Social Science,Lakshmi Suresh (Class 5),4
+5,C,Computer,Akhil Mathew (Class 5),2
+5,C,Physical Education,Divya Mohan (Class 5),2
+5,C,Art,Kiran Babu (Class 5),1
+5,C,Work Education,Reshma Paul (Class 5),1
+5,D,English,Sreeja Pillai (Class 5),5
+5,D,Malayalam,Nikhil Das (Class 5),4
+5,D,Hindi,Deepa Varghese (Class 5),3
+5,D,Mathematics,Fathima Ali (Class 5),6
+5,D,Basic Science,Vivek Raj (Class 5),4
+5,D,Social Science,Lakshmi Suresh (Class 5),4
+5,D,Computer,Akhil Mathew (Class 5),2
+5,D,Physical Education,Divya Mohan (Class 5),2
+5,D,Art,Kiran Babu (Class 5),1
+5,D,Work Education,Reshma Paul (Class 5),1
+6,A,English,Nikhil Das (Class 6),5
+6,A,Malayalam,Deepa Varghese (Class 6),4
+6,A,Hindi,Fathima Ali (Class 6),3
+6,A,Mathematics,Vivek Raj (Class 6),6
+6,A,Basic Science,Lakshmi Suresh (Class 6),4
+6,A,Social Science,Akhil Mathew (Class 6),4
+6,A,Computer,Divya Mohan (Class 6),2
+6,A,Physical Education,Kiran Babu (Class 6),2
+6,A,Art,Reshma Paul (Class 6),1
+6,A,Work Education,Manu George (Class 6),1
+6,B,English,Nikhil Das (Class 6),5
+6,B,Malayalam,Deepa Varghese (Class 6),4
+6,B,Hindi,Fathima Ali (Class 6),3
+6,B,Mathematics,Vivek Raj (Class 6),6
+6,B,Basic Science,Lakshmi Suresh (Class 6),4
+6,B,Social Science,Akhil Mathew (Class 6),4
+6,B,Computer,Divya Mohan (Class 6),2
+6,B,Physical Education,Kiran Babu (Class 6),2
+6,B,Art,Reshma Paul (Class 6),1
+6,B,Work Education,Manu George (Class 6),1
+6,C,English,Nikhil Das (Class 6),5
+6,C,Malayalam,Deepa Varghese (Class 6),4
+6,C,Hindi,Fathima Ali (Class 6),3
+6,C,Mathematics,Vivek Raj (Class 6),6
+6,C,Basic Science,Lakshmi Suresh (Class 6),4
+6,C,Social Science,Akhil Mathew (Class 6),4
+6,C,Computer,Divya Mohan (Class 6),2
+6,C,Physical Education,Kiran Babu (Class 6),2
+6,C,Art,Reshma Paul (Class 6),1
+6,C,Work Education,Manu George (Class 6),1
+6,D,English,Nikhil Das (Class 6),5
+6,D,Malayalam,Deepa Varghese (Class 6),4
+6,D,Hindi,Fathima Ali (Class 6),3
+6,D,Mathematics,Vivek Raj (Class 6),6
+6,D,Basic Science,Lakshmi Suresh (Class 6),4
+6,D,Social Science,Akhil Mathew (Class 6),4
+6,D,Computer,Divya Mohan (Class 6),2
+6,D,Physical Education,Kiran Babu (Class 6),2
+6,D,Art,Reshma Paul (Class 6),1
+6,D,Work Education,Manu George (Class 6),1
+7,A,English,Deepa Varghese (Class 7),5
+7,A,Malayalam,Fathima Ali (Class 7),4
+7,A,Hindi,Vivek Raj (Class 7),3
+7,A,Mathematics,Lakshmi Suresh (Class 7),6
+7,A,Basic Science,Akhil Mathew (Class 7),4
+7,A,Social Science,Divya Mohan (Class 7),4
+7,A,Computer,Kiran Babu (Class 7),2
+7,A,Physical Education,Reshma Paul (Class 7),2
+7,A,Art,Manu George (Class 7),1
+7,A,Work Education,Riya Koshy (Class 7),1
+7,B,English,Deepa Varghese (Class 7),5
+7,B,Malayalam,Fathima Ali (Class 7),4
+7,B,Hindi,Vivek Raj (Class 7),3
+7,B,Mathematics,Lakshmi Suresh (Class 7),6
+7,B,Basic Science,Akhil Mathew (Class 7),4
+7,B,Social Science,Divya Mohan (Class 7),4
+7,B,Computer,Kiran Babu (Class 7),2
+7,B,Physical Education,Reshma Paul (Class 7),2
+7,B,Art,Manu George (Class 7),1
+7,B,Work Education,Riya Koshy (Class 7),1
+7,C,English,Deepa Varghese (Class 7),5
+7,C,Malayalam,Fathima Ali (Class 7),4
+7,C,Hindi,Vivek Raj (Class 7),3
+7,C,Mathematics,Lakshmi Suresh (Class 7),6
+7,C,Basic Science,Akhil Mathew (Class 7),4
+7,C,Social Science,Divya Mohan (Class 7),4
+7,C,Computer,Kiran Babu (Class 7),2
+7,C,Physical Education,Reshma Paul (Class 7),2
+7,C,Art,Manu George (Class 7),1
+7,C,Work Education,Riya Koshy (Class 7),1
+7,D,English,Deepa Varghese (Class 7),5
+7,D,Malayalam,Fathima Ali (Class 7),4
+7,D,Hindi,Vivek Raj (Class 7),3
+7,D,Mathematics,Lakshmi Suresh (Class 7),6
+7,D,Basic Science,Akhil Mathew (Class 7),4
+7,D,Social Science,Divya Mohan (Class 7),4
+7,D,Computer,Kiran Babu (Class 7),2
+7,D,Physical Education,Reshma Paul (Class 7),2
+7,D,Art,Manu George (Class 7),1
+7,D,Work Education,Riya Koshy (Class 7),1
+8,A,English,Fathima Ali (Class 8),5
+8,A,Malayalam,Vivek Raj (Class 8),4
+8,A,Hindi,Lakshmi Suresh (Class 8),3
+8,A,Mathematics,Akhil Mathew (Class 8),6
+8,A,Basic Science,Divya Mohan (Class 8),4
+8,A,Social Science,Kiran Babu (Class 8),4
+8,A,Computer,Reshma Paul (Class 8),2
+8,A,Physical Education,Manu George (Class 8),2
+8,A,Art,Riya Koshy (Class 8),1
+8,A,Work Education,Jithin Roy (Class 8),1
+8,B,English,Fathima Ali (Class 8),5
+8,B,Malayalam,Vivek Raj (Class 8),4
+8,B,Hindi,Lakshmi Suresh (Class 8),3
+8,B,Mathematics,Akhil Mathew (Class 8),6
+8,B,Basic Science,Divya Mohan (Class 8),4
+8,B,Social Science,Kiran Babu (Class 8),4
+8,B,Computer,Reshma Paul (Class 8),2
+8,B,Physical Education,Manu George (Class 8),2
+8,B,Art,Riya Koshy (Class 8),1
+8,B,Work Education,Jithin Roy (Class 8),1
+8,C,English,Fathima Ali (Class 8),5
+8,C,Malayalam,Vivek Raj (Class 8),4
+8,C,Hindi,Lakshmi Suresh (Class 8),3
+8,C,Mathematics,Akhil Mathew (Class 8),6
+8,C,Basic Science,Divya Mohan (Class 8),4
+8,C,Social Science,Kiran Babu (Class 8),4
+8,C,Computer,Reshma Paul (Class 8),2
+8,C,Physical Education,Manu George (Class 8),2
+8,C,Art,Riya Koshy (Class 8),1
+8,C,Work Education,Jithin Roy (Class 8),1
+8,D,English,Fathima Ali (Class 8),5
+8,D,Malayalam,Vivek Raj (Class 8),4
+8,D,Hindi,Lakshmi Suresh (Class 8),3
+8,D,Mathematics,Akhil Mathew (Class 8),6
+8,D,Basic Science,Divya Mohan (Class 8),4
+8,D,Social Science,Kiran Babu (Class 8),4
+8,D,Computer,Reshma Paul (Class 8),2
+8,D,Physical Education,Manu George (Class 8),2
+8,D,Art,Riya Koshy (Class 8),1
+8,D,Work Education,Jithin Roy (Class 8),1
+9,A,English,Vivek Raj (Class 9),5
+9,A,Malayalam,Lakshmi Suresh (Class 9),4
+9,A,Hindi,Akhil Mathew (Class 9),3
+9,A,Mathematics,Divya Mohan (Class 9),6
+9,A,Physics,Kiran Babu (Class 9),3
+9,A,Chemistry,Reshma Paul (Class 9),3
+9,A,Biology,Manu George (Class 9),3
+9,A,Social Science,Riya Koshy (Class 9),4
+9,A,Computer Science,Jithin Roy (Class 9),2
+9,A,Physical Education,Sneha Ravi (Class 9),1
+9,B,English,Vivek Raj (Class 9),5
+9,B,Malayalam,Lakshmi Suresh (Class 9),4
+9,B,Hindi,Akhil Mathew (Class 9),3
+9,B,Mathematics,Divya Mohan (Class 9),6
+9,B,Physics,Kiran Babu (Class 9),3
+9,B,Chemistry,Reshma Paul (Class 9),3
+9,B,Biology,Manu George (Class 9),3
+9,B,Social Science,Riya Koshy (Class 9),4
+9,B,Computer Science,Jithin Roy (Class 9),2
+9,B,Physical Education,Sneha Ravi (Class 9),1
+9,C,English,Vivek Raj (Class 9),5
+9,C,Malayalam,Lakshmi Suresh (Class 9),4
+9,C,Hindi,Akhil Mathew (Class 9),3
+9,C,Mathematics,Divya Mohan (Class 9),6
+9,C,Physics,Kiran Babu (Class 9),3
+9,C,Chemistry,Reshma Paul (Class 9),3
+9,C,Biology,Manu George (Class 9),3
+9,C,Social Science,Riya Koshy (Class 9),4
+9,C,Computer Science,Jithin Roy (Class 9),2
+9,C,Physical Education,Sneha Ravi (Class 9),1
+9,D,English,Vivek Raj (Class 9),5
+9,D,Malayalam,Lakshmi Suresh (Class 9),4
+9,D,Hindi,Akhil Mathew (Class 9),3
+9,D,Mathematics,Divya Mohan (Class 9),6
+9,D,Physics,Kiran Babu (Class 9),3
+9,D,Chemistry,Reshma Paul (Class 9),3
+9,D,Biology,Manu George (Class 9),3
+9,D,Social Science,Riya Koshy (Class 9),4
+9,D,Computer Science,Jithin Roy (Class 9),2
+9,D,Physical Education,Sneha Ravi (Class 9),1
+10,A,English,Lakshmi Suresh (Class 10),5
+10,A,Malayalam,Akhil Mathew (Class 10),4
+10,A,Hindi,Divya Mohan (Class 10),3
+10,A,Mathematics,Kiran Babu (Class 10),6
+10,A,Physics,Reshma Paul (Class 10),3
+10,A,Chemistry,Manu George (Class 10),3
+10,A,Biology,Riya Koshy (Class 10),3
+10,A,Social Science,Jithin Roy (Class 10),4
+10,A,Computer Science,Sneha Ravi (Class 10),2
+10,A,Physical Education,Ajay Dev (Class 10),1
+10,B,English,Lakshmi Suresh (Class 10),5
+10,B,Malayalam,Akhil Mathew (Class 10),4
+10,B,Hindi,Divya Mohan (Class 10),3
+10,B,Mathematics,Kiran Babu (Class 10),6
+10,B,Physics,Reshma Paul (Class 10),3
+10,B,Chemistry,Manu George (Class 10),3
+10,B,Biology,Riya Koshy (Class 10),3
+10,B,Social Science,Jithin Roy (Class 10),4
+10,B,Computer Science,Sneha Ravi (Class 10),2
+10,B,Physical Education,Ajay Dev (Class 10),1
+10,C,English,Lakshmi Suresh (Class 10),5
+10,C,Malayalam,Akhil Mathew (Class 10),4
+10,C,Hindi,Divya Mohan (Class 10),3
+10,C,Mathematics,Kiran Babu (Class 10),6
+10,C,Physics,Reshma Paul (Class 10),3
+10,C,Chemistry,Manu George (Class 10),3
+10,C,Biology,Riya Koshy (Class 10),3
+10,C,Social Science,Jithin Roy (Class 10),4
+10,C,Computer Science,Sneha Ravi (Class 10),2
+10,C,Physical Education,Ajay Dev (Class 10),1
+10,D,English,Lakshmi Suresh (Class 10),5
+10,D,Malayalam,Akhil Mathew (Class 10),4
+10,D,Hindi,Divya Mohan (Class 10),3
+10,D,Mathematics,Kiran Babu (Class 10),6
+10,D,Physics,Reshma Paul (Class 10),3
+10,D,Chemistry,Manu George (Class 10),3
+10,D,Biology,Riya Koshy (Class 10),3
+10,D,Social Science,Jithin Roy (Class 10),4
+10,D,Computer Science,Sneha Ravi (Class 10),2
+10,D,Physical Education,Ajay Dev (Class 10),1
+11,A,English,Akhil Mathew (Class 11),4
+11,A,Malayalam,Divya Mohan (Class 11),3
+11,A,Mathematics,Kiran Babu (Class 11),5
+11,A,Physics,Reshma Paul (Class 11),5
+11,A,Chemistry,Manu George (Class 11),5
+11,A,Biology,Riya Koshy (Class 11),4
+11,A,Computer Science,Jithin Roy (Class 11),3
+11,A,Physical Education,Sneha Ravi (Class 11),1
+11,B,English,Akhil Mathew (Class 11),4
+11,B,Malayalam,Divya Mohan (Class 11),3
+11,B,Mathematics,Kiran Babu (Class 11),5
+11,B,Physics,Reshma Paul (Class 11),5
+11,B,Chemistry,Manu George (Class 11),5
+11,B,Biology,Riya Koshy (Class 11),4
+11,B,Computer Science,Jithin Roy (Class 11),3
+11,B,Physical Education,Sneha Ravi (Class 11),1
+11,C,English,Akhil Mathew (Class 11),4
+11,C,Malayalam,Divya Mohan (Class 11),3
+11,C,Accountancy,Kiran Babu (Class 11),6
+11,C,Business Studies,Reshma Paul (Class 11),5
+11,C,Economics,Manu George (Class 11),5
+11,C,Computer Applications,Riya Koshy (Class 11),3
+11,C,Physical Education,Jithin Roy (Class 11),1
+11,D,English,Akhil Mathew (Class 11),4
+11,D,Malayalam,Divya Mohan (Class 11),3
+11,D,History,Kiran Babu (Class 11),5
+11,D,Political Science,Reshma Paul (Class 11),5
+11,D,Economics,Manu George (Class 11),5
+11,D,Sociology,Riya Koshy (Class 11),4
+11,D,Physical Education,Jithin Roy (Class 11),1
+12,A,English,Divya Mohan (Class 12),4
+12,A,Malayalam,Kiran Babu (Class 12),3
+12,A,Mathematics,Reshma Paul (Class 12),5
+12,A,Physics,Manu George (Class 12),5
+12,A,Chemistry,Riya Koshy (Class 12),5
+12,A,Biology,Jithin Roy (Class 12),4
+12,A,Computer Science,Sneha Ravi (Class 12),3
+12,A,Physical Education,Ajay Dev (Class 12),1
+12,B,English,Divya Mohan (Class 12),4
+12,B,Malayalam,Kiran Babu (Class 12),3
+12,B,Mathematics,Reshma Paul (Class 12),5
+12,B,Physics,Manu George (Class 12),5
+12,B,Chemistry,Riya Koshy (Class 12),5
+12,B,Biology,Jithin Roy (Class 12),4
+12,B,Computer Science,Sneha Ravi (Class 12),3
+12,B,Physical Education,Ajay Dev (Class 12),1
+12,C,English,Divya Mohan (Class 12),4
+12,C,Malayalam,Kiran Babu (Class 12),3
+12,C,Accountancy,Reshma Paul (Class 12),6
+12,C,Business Studies,Manu George (Class 12),5
+12,C,Economics,Riya Koshy (Class 12),5
+12,C,Computer Applications,Jithin Roy (Class 12),3
+12,C,Physical Education,Sneha Ravi (Class 12),1
+12,D,English,Divya Mohan (Class 12),4
+12,D,Malayalam,Kiran Babu (Class 12),3
+12,D,History,Reshma Paul (Class 12),5
+12,D,Political Science,Manu George (Class 12),5
+12,D,Economics,Riya Koshy (Class 12),5
+12,D,Sociology,Jithin Roy (Class 12),4
+12,D,Physical Education,Sneha Ravi (Class 12),1
